@@ -1,0 +1,3 @@
+choice /c 123
+if ERRORLEVEL 1 ECHO 1
+PAUSE
